@@ -28,5 +28,5 @@ https://chrisorm.github.io/NGP.html
 <p align='center'>
   <b> 30 Neural Process Function Draws for Different Training Epochs</b>
 
-![posterior_0](\figures\posterior_0.png)
+![posterior_0](/figures/posterior_0.png)
 </p>
