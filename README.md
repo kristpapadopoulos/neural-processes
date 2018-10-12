@@ -27,6 +27,9 @@ https://chrisorm.github.io/NGP.html
 
 
 <b> Figures: 30 Neural Process Function Draws for Different Training Epochs</b> 
+- training context x range -2 to 2 and output range sin(x)
+- test x range -10 to 10 to estimate posterior function samples
+
 ![posterior_0](/figures/posterior_0.png)
 ![posterior_1000](/figures/posterior_1000.png)
 ![posterior_2000](/figures/posterior_2000.png)
