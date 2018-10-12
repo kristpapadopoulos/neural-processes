@@ -26,7 +26,9 @@ https://chrisorm.github.io/NGP.html
 - Learning over mutiple related functions
 
 <p align='center'>
-  <b> 30 Neural Process Function Draws for Different Training Epochs</b>
-
+  <b> 30 Neural Process Function Draws for Different Training Epochs</b> 
+  <img src='  
+</p>
+<p align='center'>
 ![posterior_0](/figures/posterior_0.png)
 </p>
