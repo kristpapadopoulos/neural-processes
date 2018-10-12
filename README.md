@@ -26,7 +26,7 @@ https://chrisorm.github.io/NGP.html
 - Learning over mutiple related functions
 
 <p align='center'>
-  <b> Example of generated MNIST images from 100 test samples</b>
+  <b> 30 Neural Process Function Draws for Different Training Epochs</b>
 
-![cat_vae MNIST samples](MNIST_cat_vae_v0.1_sample.png)
+![posterior_0](\figures\posterior_0.png)
 </p>
