@@ -1,4 +1,4 @@
-## Categorical Variational Autoencoder
+## Neural Processes
 
 ### Keras, Tensorflow Probability and Eager Execution Implementation 
 Neural Processes for 1D regression implemented as per paper: [Neural Processes](https://arxiv.org/abs/1807.01622)
