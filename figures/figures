@@ -1,0 +1,6 @@
+Neural Processes figures
+
+30 posterior function draws over x range -10 to 10 for different training epochs.
+
+Neural process training context was set between -2 to 2 for sin(x)
+
