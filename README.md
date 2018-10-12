@@ -25,6 +25,7 @@ https://chrisorm.github.io/NGP.html
 - Different priors and latent space transformations
 - Learning over mutiple related functions
 
+
 <b> Figures: 30 Neural Process Function Draws for Different Training Epochs</b> 
 ![posterior_0](/figures/posterior_0.png)
 ![posterior_1000](/figures/posterior_1000.png)
